@@ -6,5 +6,3 @@ print(" Celsius = ", end = '')
 F = (9/5)*C + 32
 print(F, end = '')
 print(" Fahrenheit")
-print(" pounds")
-
